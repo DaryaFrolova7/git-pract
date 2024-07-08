@@ -7,3 +7,4 @@ Fish_big_som: Первый
 Fish_small_som1: Второй
 Fish_small_som2: Третий
 Spider_in_my_room: Володя
+Я забыла про жуков, что иногда залетают ко мне в команту!
