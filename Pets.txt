@@ -1,2 +1,9 @@
-Dog: Archi
+Dog1: Archi
 Cat1: Kisa
+Turtle: Tutel
+Cat2: Persik
+Dog2: Ben
+Fish_big_som: Первый
+Fish_small_som1: Второй
+Fish_small_som2: Третий
+Spider_in_my_room: Володя
