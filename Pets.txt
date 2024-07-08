@@ -1,4 +1,2 @@
 Dog: Archi
 Cat1: Kisa
-Tutel: Tutel
-Cat2: Persik
